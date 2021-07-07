@@ -1,0 +1,2 @@
+# slopefaliure
+Swedish circle method
